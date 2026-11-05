@@ -1,5 +1,11 @@
 ## Olá pessoas.
 
+
+<div align="center">
+<a href="https://github.com/myasmim-dez/github-stats">
+<img src="https://github.com/jstrieb/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/jstrieb/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
+
 <!--
 **myasmim-dez/myasmim-dez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
